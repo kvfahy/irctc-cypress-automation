@@ -5,7 +5,7 @@
   "SOURCE_STATION": "TIR",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "MAS",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "9142516323@superyes",
   "PASSENGER_DETAILS": [
